@@ -53,6 +53,6 @@ public class app3{
         System.out.println("La somme minimale est: " + minSum);
         System.out.println("La somme maximale est: " + maxSum);
 
-        scanner.close();
+        
     }
 }

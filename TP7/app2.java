@@ -36,7 +36,7 @@ public class app2 {
             
             Moy = S / (nl * nc);
 
-            // Output results
+            
             System.out.println("Produit = " + P);
             System.out.println("Moyenne = " + Moy);
         }
